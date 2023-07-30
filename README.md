@@ -13,13 +13,10 @@ Interactively ask questions about the uploaded documents and receive model respo
 # Prerequisites
 Before running the application, ensure you have the following installed:
 
-Python
-
-Streamlit
-
-PyPDF2
-
-langchain
+* Python
+* Streamlit
+* PyPDF2
+* langchain
 
 # How to Run
 Clone or download this repository to your local machine.
