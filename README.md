@@ -23,9 +23,9 @@ Clone or download this repository to your local machine.
 Install the required dependencies (Streamlit, PyPDF2, langchain) using pip.
 Open a terminal or command prompt and navigate to the project's root directory.
 Run the Streamlit application with the following command:
-'''
+```
 streamlit run app.py
-'''
+```
 The application will open in your default web browser.
 
 # Usage
