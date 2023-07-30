@@ -14,9 +14,12 @@ Interactively ask questions about the uploaded documents and receive model respo
 Before running the application, ensure you have the following installed:
 
 Python
+
 Streamlit
+
 PyPDF2
-langchain library
+
+langchain
 
 # How to Run
 Clone or download this repository to your local machine.
@@ -34,9 +37,7 @@ In the sidebar, click on the "Upload your PDFs here and click on 'Process'" sect
 After uploading the PDFs, click on the "Process" button. The application will extract the text from the uploaded PDFs and create a conversation chain model based on the text.
 Once the processing is complete, you can ask questions related to the uploaded documents in the text input box below. Type your question and press Enter.
 The model will provide responses to your questions based on the information extracted from the PDFs.
-Resetting the Application
+
+# Resetting the Application
 If you wish to start over or change the uploaded PDFs, you can click the "Reset" button in the sidebar. This will clear the uploaded PDFs, conversation chain model, and the chat history.
 
-# Important Notes
-The langchain library used in this application is crucial for NLP functionalities. Make sure you have it installed correctly and that it is compatible with the application.
-If you encounter any issues or have questions, feel free to open an issue in the repository.
