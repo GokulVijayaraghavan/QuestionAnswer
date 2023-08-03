@@ -1,0 +1,4 @@
+dotenv
+PyPDF2==3.0.1
+langchain==0.0.247
+streamlit==1.18.1
